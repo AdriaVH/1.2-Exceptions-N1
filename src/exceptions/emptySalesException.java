@@ -1,4 +1,4 @@
 package src.exceptions;
 
-public class emptySalesException {
+public class emptySalesException extends Exception{
 }
